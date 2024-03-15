@@ -1,0 +1,20 @@
+{
+  "name": "tea-oss-db",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/dyx/tea-db-dyx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyx/tea-oss-db.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dyx",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.6.7",
+    "lodash": "4.17.21"
+  }
+}
